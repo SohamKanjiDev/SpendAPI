@@ -1,4 +1,4 @@
-# 💸 Expense Tracker Backend
+# 💸 SpendAPI
 
 A backend service built using **FastAPI**, **PostgreSQL**, and **Alembic**, designed to let users track and manage their financial activities — including income and categorized expenses.
 
@@ -53,7 +53,6 @@ This project lays the foundation for a full-featured personal finance tracker or
 
 ```bash
 git clone https://github.com/SohamKanjiDev/SpendAPI.git
-cd expense-tracker
 ```
 
 ### 2. Create a `.env` File
