@@ -52,7 +52,7 @@ This project lays the foundation for a full-featured personal finance tracker or
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SohamKanjiDev/expense-tracker.git
+git clone https://github.com/SohamKanjiDev/SpendAPI.git
 cd expense-tracker
 ```
 
